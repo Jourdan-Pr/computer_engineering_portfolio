@@ -1,1 +1,106 @@
-# computer_engineering_portfolio
+# Jourdan Proffit
+
+### Computer Engineering Graduate | FPGA | Embedded Systems | Hardware Design | Controls & Automation
+
+## About me
+
+Hello! My name is Jourdan Proffit, I'm a Computer Engineering graduate from Old Dominion University with a concentration in Hardware Systems and a minor in Computer Science.
+I enjoy designing, building, and validating hardware systems that bridge the gap between embedded software and digital hardware.
+My experience spans FPGA development, embedded systems, C++ and Java programming, hardware/software integration, networking, and system optimization.
+My long-term goals are to pursue a master's degree and build reliable hardware/embedded systems that solve real world engineering problems.
+
+## Technical Skills
+
+### Programming Languages 
+- VHDL
+- C++
+- Java
+- Python
+
+### Hardware
+- FPGA Design
+- Embedded Systems
+- ARM Microcontrollers
+- Digital Logic Design
+- Hardware Validation
+- RTOS
+- UDP
+- UART
+
+### Software
+- Aldec
+- Quartus Prime
+- Eclipse IDE
+- Visual Studio Code
+- Arduino IDE
+- Qt
+- Git
+- NI Multisim
+- NI ELVISmx
+- Fritzing
+- MATLAB
+- EasyEDA
+
+## Featured Engineering Projects
+
+### Embedded Image Processing System
+
+Qt application communicating with an FPGA development board over UDP to perform image processing using OpenCV.
+
+**Technologies**
+- C++
+- Qt
+- OpenCV
+- Python
+- Embedded Linux
+- UDP Networking
+
+-> [insert repository here]
+
+---
+
+### FPGA Digital Design Collection
+
+A collection of FPGA projects demonstrating digital logic, finite state machines, arithmetic units, and hardware verification.
+
+**Technologies**
+- VHDL
+- Aldec
+- Quartus Prime
+- ModelSim
+
+-> [insert repositories here]
+
+---
+
+## Education
+
+Bachelor of Science in Computer Engineering
+
+Old Dominion University
+
+Hardare Systems Concentration
+
+Minor in Computer Science
+
+3.23 GPA
+
+## Currently Learning
+- Ignition SCADA
+- PLC Programming
+- Industrial Automation
+- Ladder Logic
+
+## Certifications
+
+Ignition Core Credential (coming soon)
+
+## Resume
+
+[Download My Resume](insert resume link here)
+
+## Contact
+
+Email: jourdan.proffit@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/jourdan-proffit

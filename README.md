@@ -97,7 +97,7 @@ Ignition Core Credential (coming soon)
 
 ## Resume
 
-[Download My Resume](insert resume link here)
+[Download My Resume](https://raw.githubusercontent.com/Jourdan-Pr/computer_engineering_portfolio/main/resume/JourdanProffitResume.pdf)
 
 ## Contact
 

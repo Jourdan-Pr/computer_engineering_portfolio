@@ -24,6 +24,7 @@ My long-term goals are to pursue a master's degree and build reliable hardware/e
 - Digital Logic Design
 - Hardware Validation
 - RTOS
+- RTL Design
 - UDP
 - UART
 

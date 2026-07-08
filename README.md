@@ -22,36 +22,13 @@ My long-term goals are to pursue a master's degree and build reliable hardware/e
 
 ## Technical Skills
 
-### Programming Languages 
-- VHDL
-- C++
-- Java
-- Python
-
-### Hardware
-- FPGA Design
-- Embedded Systems
-- ARM Microcontrollers
-- Digital Logic Design
-- Hardware Validation
-- RTOS
-- RTL Design
-- UDP
-- UART
-
-### Software
-- Aldec
-- Quartus Prime
-- Eclipse IDE
-- Visual Studio Code
-- Arduino IDE
-- Qt
-- Git
-- NI Multisim
-- NI ELVISmx
-- Fritzing
-- MATLAB
-- EasyEDA
+| Category | Skills |
+|-----------|--------|
+| **Programming Languages** | VHDL • C++ • Java • Python |
+| **Hardware & Embedded Systems** | FPGA Design • Embedded Systems • ARM Microcontrollers • Digital Logic Design • RTL Design • Hardware Validation • RTOS |
+| **Communication Protocols** | UDP • UART |
+| **Development Tools** | Quartus Prime • Aldec • Eclipse IDE • Visual Studio Code • Arduino IDE • Qt • Git |
+| **Engineering Software** | NI Multisim • NI ELVISmx • MATLAB • EasyEDA • Fritzing |
 
 ## Featured Engineering Projects
 

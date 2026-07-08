@@ -2,6 +2,17 @@
 
 ### Computer Engineering Graduate | FPGA | Embedded Systems | Hardware Design | Controls & Automation
 
+![VHDL](https://img.shields.io/badge/VHDL-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded-Systems-orange?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-Hardware-red?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge)
+
+---
+
 ## About me
 
 Hello! My name is Jourdan Proffit, I'm a Computer Engineering graduate from Old Dominion University with a concentration in Hardware Systems and a minor in Computer Science.
